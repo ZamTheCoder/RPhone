@@ -1,0 +1,35 @@
+
+img{
+    height: 100px;
+  }  
+
+  #NavBar{
+    color: orange;
+  }
+
+  hr{
+    background-color:orange;
+  }
+
+
+  
+  #my-container{
+    height: 8vh; 
+
+  }
+
+
+  #PC{
+  height: 40%;
+  width: 100%;
+  }
+
+  #myCard{
+    border: 2px solid orange;
+  }
+
+  .kanit-regular {
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
