@@ -13,29 +13,48 @@ img{
 
 
   
-  #my-container{
-    height: 8vh; 
-
-  }
-
+  
 
   #PC{
-  height: 40%;
-  width: 100%;
+  height: 50%;
+  width: 95%;
+  
   }
 
-  #myCard{
-    border: 2px solid orange;
+  
+  #CarouselSize{
+    height : 40%;
+    width : 30%;
+
   }
 
   .kanit-regular {
     font-family: "Kanit", sans-serif;
     font-weight: 400;
     font-style: normal;
-    border: 4px solid grey
+  }
+#myCard{
+  border-bottom : 15px dotted black;
+}
+
+button{
+  width: 1%;
+}
+  #Buttons{
+  height:100%;
   }
 
-  #Switcher{
-    height: 50%;
-    margin-right: 40%;
+
+  footer{
+    background-color:rgb(45, 42, 42);
+    color: white;
+  }
+
+  #footer{
+    height: 300px;
+  }
+
+  #Align{
+   text-align: right;
+
   }
