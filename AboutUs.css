@@ -1,0 +1,21 @@
+img{
+    height: 100px;
+  }  
+
+  #NavBar{
+    color: orange;
+  }
+
+  hr{
+    background-color:orange;
+  }
+
+.kanit-regular{
+    font-family:"Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.Profile{
+height:20%;  
+}

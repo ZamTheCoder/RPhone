@@ -51,10 +51,22 @@ button{
   }
 
   #footer{
-    height: 300px;
+    height: 400px;
   }
 
   #Align{
    text-align: right;
 
+  }
+
+  h3{
+    text-decoration: underline;
+  }
+
+  #Mention{
+    color: black;
+  }
+
+  #white{
+    background-color: white;
   }
