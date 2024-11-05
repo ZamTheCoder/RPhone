@@ -16,6 +16,34 @@ img{
     font-style: normal;
 }
 
-.Profile{
-height:20%;  
+
+
+#CreatorText{
+  padding-right:70px;
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline orange;
+}
+
+#p{
+  text-align: center;
+}
+
+#Profile{
+height: 550px;
+}
+
+#PAlign{
+  padding-top: 100px;
+}
+
+#Profile2{
+  height: 350px;
+  padding-right: 100px;
+}
+
+#PAlign2{
+ padding-left: 50px;
 }
